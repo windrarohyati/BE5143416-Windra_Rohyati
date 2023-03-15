@@ -1,0 +1,23 @@
+Proses order makanan/minuman via online
+
+1. Mulai
+2. Input nomor_hp == nomor_hp
+3. If nomor_hp == terdaftar
+	Print 'Selamat datang di RGFood' && daftar_restoran
+4. Else nomor_hp == tidak terdaftaar
+	Print 'Nomor hp mu belum terdaftar, masukan kode OTP untuk daftar'
+5. Print daftar_restoran
+6. Input nama_restoran == nama_restoran
+7. Input menu_makanan/minuman == menu_makanan/minuman
+8. Input jumlah_pesanan == jumlah_pesanan
+9. Input alamat_tujuan == alamat_tujuan
+10. Input catatan_tambahan == catatan_tambahan
+11. Print 'Periksa kembali pesanan'
+12. Input metode_pembayaran == metode_pembayaran
+13. If metode_pembayaran == e-wallet
+	Print 'Pesanan dibuat, sebentar lagi pesananmu diantar'
+14. Else metode_pembayaran == cash
+	Print 'Pesanan dibuat, sambil menunggu pesanan diantar siapkan uang pas'
+15. Input terima_pesanan == terima_pesanan
+	Print 'Pesanan diterima'
+16. Selesai
